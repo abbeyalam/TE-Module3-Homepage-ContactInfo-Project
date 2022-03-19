@@ -1,4 +1,4 @@
-# Week 9 Pair Exercises: Tech Elevator Popsicles
+# Week 9 Exercises: Tech Elevator Popsicles
 
 ## Context
 
